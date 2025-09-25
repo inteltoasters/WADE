@@ -1,5 +1,10 @@
 # WADE  
 [W]ine [A]s a [D]esktop [E]nvironment  
+
+> [!IMPORTANT]
+> This project should not be used as a daily driver, it's more of a concept and a joke.
+> It's real michaelsoft binbows guys!
+
 # Automated install:  
 `bash <(curl -s https://raw.githubusercontent.com/inteltoasters/WADE/refs/heads/main/install.sh)`  
 # Warning:  
